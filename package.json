@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:aNerdInTheHand/playmaker.git",
   "author": "Nick Holvast",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "foswig": "^1.1.1"
+  }
 }
