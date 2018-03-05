@@ -1,0 +1,9 @@
+{
+  "name": "playmaker",
+  "version": "1.0.0",
+  "description": "Generate fictional footballers",
+  "main": "index.js",
+  "repository": "git@github.com:aNerdInTheHand/playmaker.git",
+  "author": "Nick Holvast",
+  "license": "MIT"
+}
