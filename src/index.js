@@ -1,4 +1,4 @@
-import generateName from './helpers/generateName'
+const generateName = require('./helpers/generateName')
 
 module.exports = {
   generateName
