@@ -1,11 +1,26 @@
 # playmaker
-Generate fictional, copyright resistant, possibly comically-named sports players
+Generate fictional, copyright resistant, possibly comically-named footballers (soccer)
+
+### Create player
+```javascript
+TODO: Write this functionality
+```
+This function can be called with no parameters to return a random player with random characteristics and attributes:
+
+`createPlayer()`
+
+While the attributes are randomised, they will still be tracked to the player's position(s). This means a goalkeeper is unlikely to have high technical or attacking stats, and a defender is unlikely to have high goalkeeper or attacking stats.
+
+#### Create by position
+`createDefender(3)`
+1-5 quality
 
 ### Return format
 Players are returned in the following format:
 
 ```javascript
 {
+  id: '', // string
   name: {
     firstName: '', // string
     surname: '' // string
